@@ -13,3 +13,4 @@ A simple minesweeper game built in Python using SOLID principles. I learned abou
 
 ## future upgrades
 - fix styling and add animations
+- add customizable grid size
