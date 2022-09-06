@@ -1,4 +1,4 @@
-# Minesweeper_Python_OOP
+# Minesweeper_Python_OOP in progress
 A simple minesweeper game built in Python using SOLID principles. I learned about inheritance, abstraction and encapsulation.
 
 
@@ -11,4 +11,5 @@ A simple minesweeper game built in Python using SOLID principles. I learned abou
 ## You lose if you click a mine
 ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/50504143/188733133-fad3e0bb-c3c3-4196-b8e2-b71337cbde0c.gif)
 
-
+## future upgrades
+- fix styling and add animations
